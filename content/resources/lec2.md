@@ -8,8 +8,13 @@ description: 'In this lecture the Bravais lattice is defined and several example
   defined.The Ewald construction for X ?ray diffraction is explained. Emphasis is
   on the fact that the position of the diffraction spots depends only on the Bravais
   lattice. The basis only affects their intensities.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-511-theory-of-solids-i-fall-2004/1fe82d24cf797d107e69a03836b28a1a_lec2.pdf
+file: /media/courses/8-511-theory-of-solids-i-fall-2004/1fe82d24cf797d107e69a03836b28a1a_lec2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
 uid: 1fe82d24-cf79-7d10-7e69-a03836b28a1a

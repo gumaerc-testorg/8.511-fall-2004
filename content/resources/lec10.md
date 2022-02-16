@@ -9,8 +9,13 @@ description: Various tests of band calculations are described, starting from spe
   of transition metal bandstructures are shown, with emphasis on the role of the d
   bands.The rare earth is discussed with emphasis on the strong correlation nature
   of the 4f states.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-511-theory-of-solids-i-fall-2004/e1282ed5cdf523a3ec2509928e5a138c_lec10.pdf
+file: /media/courses/8-511-theory-of-solids-i-fall-2004/e1282ed5cdf523a3ec2509928e5a138c_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10.pdf
 uid: e1282ed5-cdf5-23a3-ec25-09928e5a138c
