@@ -5,6 +5,7 @@ file: /courses/8-511-theory-of-solids-i-fall-2004/44d140337933b8ef0571576150bc74
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec21.pdf
 uid: 44d14033-7933-b8ef-0571-576150bc7490
 ---
 In this lecture the attraction by the exchange of phonons is explained.
-

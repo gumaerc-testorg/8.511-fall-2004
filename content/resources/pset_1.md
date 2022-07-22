@@ -5,6 +5,7 @@ file: /courses/8-511-theory-of-solids-i-fall-2004/9eb91e4062f14ad64ed06b73c33f12
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset_1.pdf
 uid: 9eb91e40-62f1-4ad6-4ed0-6b73c33f1287
 ---
 Problem set.
-
