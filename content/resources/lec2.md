@@ -9,6 +9,7 @@ description: 'In this lecture the Bravais lattice is defined and several example
   on the fact that the position of the diffraction spots depends only on the Bravais
   lattice. The basis only affects their intensities.'
 file: /courses/8-511-theory-of-solids-i-fall-2004/1fe82d24cf797d107e69a03836b28a1a_lec2.pdf
+file_size: 28262
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: In this lecture the Hubbard model and the notion of screening are introduced.
 file: /courses/8-511-theory-of-solids-i-fall-2004/ca58fc50520f618c6b05998f674f328b_lec18.pdf
+file_size: 48494
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

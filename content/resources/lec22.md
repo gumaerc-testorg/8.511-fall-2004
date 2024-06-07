@@ -2,6 +2,7 @@
 content_type: resource
 description: In this lecture the cooper instability and the BCS wavefunction are discussed.
 file: /courses/8-511-theory-of-solids-i-fall-2004/d12bd8b712775f1da291ec282058acf4_lec22.pdf
+file_size: 66737
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

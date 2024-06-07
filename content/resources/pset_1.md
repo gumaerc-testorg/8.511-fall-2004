@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/8-511-theory-of-solids-i-fall-2004/9eb91e4062f14ad64ed06b73c33f1287_pset_1.pdf
+file_size: 38915
 file_type: application/pdf
 learning_resource_types:
 - Assignments
