@@ -10,6 +10,7 @@ description: 'The effect of a ?ux tube through the center of a ring is described
   an estimate that corrections to the quantization of the Hall resistance is exponentially
   small in the sample width.'
 file: /courses/8-511-theory-of-solids-i-fall-2004/be6b63556e295d3016f602315f02130d_lec14.pdf
+file_size: 30248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

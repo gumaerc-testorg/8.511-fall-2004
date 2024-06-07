@@ -3,6 +3,7 @@ content_type: resource
 description: The band structures of Si and Ge are discussed; the small indirect band
   gap and the cigar shaped electron pockets are discussed.
 file: /courses/8-511-theory-of-solids-i-fall-2004/0d2f4f122bfd379f84e287a36b2c2083_lec11.pdf
+file_size: 47501
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
