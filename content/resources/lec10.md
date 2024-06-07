@@ -10,6 +10,7 @@ description: Various tests of band calculations are described, starting from spe
   bands.The rare earth is discussed with emphasis on the strong correlation nature
   of the 4f states.
 file: /courses/8-511-theory-of-solids-i-fall-2004/e1282ed5cdf523a3ec2509928e5a138c_lec10.pdf
+file_size: 35289
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
