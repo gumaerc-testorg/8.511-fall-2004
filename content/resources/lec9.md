@@ -6,7 +6,7 @@ description: 'In this lecture the tight binding method is formulated and its rel
 
   example involving s and p orbitals is given. The density of states is defined and
   van Hove singularity identified.'
-file: /courses/8-511-theory-of-solids-i-fall-2004/a54a0ff1ba439522e08144c4342f1333_lec9.pdf
+file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/a54a0ff1ba439522e08144c4342f1333_lec9.pdf
 file_size: 32796
 file_type: application/pdf
 learning_resource_types:
