@@ -4,7 +4,7 @@ description: 'In this lecture there is further discussion of the pseudopotential
   the concept
 
   of muffin-tin potential is explained and APW is briefly discussed.'
-file: /courses/8-511-theory-of-solids-i-fall-2004/bb326a3d9b25d731f3eec1f1911b0cad_lec8.pdf
+file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/bb326a3d9b25d731f3eec1f1911b0cad_lec8.pdf
 file_size: 42060
 file_type: application/pdf
 learning_resource_types:
