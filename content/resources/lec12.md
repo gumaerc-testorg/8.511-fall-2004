@@ -2,7 +2,7 @@
 content_type: resource
 description: The semiclassical equation of motion is derived for a constant electric
   field and the criterion for the adiabatic approximation described.
-file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/295f3576dd295031551d3431c320af63_lec12.pdf
+file: /courses/8-511-theory-of-solids-i-fall-2004/295f3576dd295031551d3431c320af63_lec12.pdf
 file_size: 599193
 file_type: application/pdf
 learning_resource_types:

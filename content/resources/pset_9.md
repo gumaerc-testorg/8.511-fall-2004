@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/ec095c14eb541f4bb2cb01dd08b28d70_pset_9.pdf
+file: /courses/8-511-theory-of-solids-i-fall-2004/ec095c14eb541f4bb2cb01dd08b28d70_pset_9.pdf
 file_size: 59760
 file_type: application/pdf
 learning_resource_types:
