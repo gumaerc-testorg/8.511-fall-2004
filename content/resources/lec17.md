@@ -9,7 +9,7 @@ description: 'The Kohn ?Sham formulation of the density functional theory is exp
   of the local density functional approximation is discussed, starting with the Heitler
   London approximation for hydrogen molecules. The notion of the Mott insulator is
   introduced.'
-file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/1378ad51e28d43619d66a8b3d7be70f4_lec17.pdf
+file: /courses/8-511-theory-of-solids-i-fall-2004/1378ad51e28d43619d66a8b3d7be70f4_lec17.pdf
 file_size: 28853
 file_type: application/pdf
 learning_resource_types:
