@@ -2,7 +2,7 @@
 content_type: resource
 description: In this lecture the longitudinal sound wave of jellium is discussed and
   a local displacement vector d(r,t) for the jellium is introduced.
-file: /courses/8-511-theory-of-solids-i-fall-2004/d711f508f737d82fdec4a331a3c787c8_lec19.pdf
+file: /ol-ocw-studio-app/courses/8-511-theory-of-solids-i-fall-2004/d711f508f737d82fdec4a331a3c787c8_lec19.pdf
 file_size: 100965
 file_type: application/pdf
 learning_resource_types:
